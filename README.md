@@ -1,12 +1,12 @@
 ### 👋 こんにちは！ (Hi there!)
 
-はじめまして！hitoshinayaと申します。
+はじめまして！hitoshinayaといいます。
 Unityでのゲーム開発と、Pythonを使った株の自動売買システムの開発に情熱を注いでいます。
-新しい技術を学ぶのが好きです。
+新しい技術を学んで自分が使うプロダクトを作っています。
 
 Nice to meet you! My name is hitoshinaya.
 I'm passionate about game development with Unity and developing automated stock trading systems using Python.
-I enjoy learning new technologies.
+I learn new technologies and create products that I use.
 ---
 
 ### 🛠 使用している技術 (My Tech Stack)
