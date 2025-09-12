@@ -13,7 +13,7 @@ I learn new technologies and create products that I use.
 
 - **ゲーム開発（Game development）:** Unity, C#
 - **株の売買自動化（Automated stock trading）:** Python,
-- **その他（Others）:** Git, GitHub, VS Code
+- **その他（Others）:** GitHub, VS Code
 
 ---
 
