@@ -12,7 +12,7 @@ I learn new technologies and create products that I use.
 ### 🛠 使用している技術 (My Tech Stack)
 
 - **ゲーム開発（Game development）:** Unity, C#
-- **株の売買自動化（Automated stock trading）:** Python,Flasksk
+- **株の売買自動化（Automated stock trading）:** Python,Flask
 - **その他（Others）:** GitHub, VS Code
 
 ---
